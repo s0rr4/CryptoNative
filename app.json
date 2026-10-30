@@ -1,10 +1,17 @@
 {
   "expo": {
+<<<<<<< HEAD
+    "name": "CryptoNative",
+    "slug": "CryptoNative",
+    "version": "1.0.0",
+    "orientation": "portrait",
+=======
     "name": "citasReactNative",
     "slug": "citasReactNative",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
+>>>>>>> origin/main
     "userInterfaceStyle": "light",
     "ios": {
       "supportsTablet": true
